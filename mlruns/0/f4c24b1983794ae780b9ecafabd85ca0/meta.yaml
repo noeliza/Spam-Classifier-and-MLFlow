@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nowie/Documents/Github/Spam-Classifier-and-MLFlow/mlruns/0/f4c24b1983794ae780b9ecafabd85ca0/artifacts
+end_time: 1675417609017
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f4c24b1983794ae780b9ecafabd85ca0
+run_name: valuable-fly-566
+run_uuid: f4c24b1983794ae780b9ecafabd85ca0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675417605520
+status: 3
+tags: []
+user_id: nowie

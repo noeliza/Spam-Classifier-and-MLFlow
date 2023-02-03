@@ -1,0 +1,21 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.9.13
+- pip<=22.3.1
+- pip:
+  - mlflow<3,>=2.1
+  - cffi==1.15.1
+  - cloudpickle==2.0.0
+  - colorama==0.4.6
+  - defusedxml==0.7.1
+  - dill==0.3.6
+  - imbalanced-learn==0.10.1
+  - ipython==7.31.1
+  - optuna==3.1.0
+  - psutil==5.9.0
+  - scikit-learn==1.2.0
+  - seaborn==0.12.2
+  - sentence-transformers==2.2.2
+  - xgboost==1.7.3
+name: mlflow-env

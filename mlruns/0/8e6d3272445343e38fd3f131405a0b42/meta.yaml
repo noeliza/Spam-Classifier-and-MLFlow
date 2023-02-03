@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nowie/Documents/Github/Spam-Classifier-and-MLFlow/mlruns/0/8e6d3272445343e38fd3f131405a0b42/artifacts
+end_time: 1675347342389
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8e6d3272445343e38fd3f131405a0b42
+run_name: colorful-doe-22
+run_uuid: 8e6d3272445343e38fd3f131405a0b42
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675347338624
+status: 3
+tags: []
+user_id: nowie

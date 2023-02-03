@@ -1,0 +1,12 @@
+creation_timestamp: 1675417609007
+current_stage: None
+description: null
+last_updated_timestamp: 1675417609007
+name: spam-classifier-XGBoost
+run_id: f4c24b1983794ae780b9ecafabd85ca0
+run_link: null
+source: file:///Users/nowie/Documents/Github/Spam-Classifier-and-MLFlow/mlruns/0/f4c24b1983794ae780b9ecafabd85ca0/artifacts/XGBoost
+status: READY
+status_message: null
+user_id: null
+version: 3

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/nowie/Documents/Github/Spam-Classifier-and-MLFlow/mlruns/0/a05c8fcba90041618d9ff3f90cc90379/artifacts
+end_time: 1675418134574
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a05c8fcba90041618d9ff3f90cc90379
+run_name: exultant-koi-639
+run_uuid: a05c8fcba90041618d9ff3f90cc90379
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1675418131205
+status: 3
+tags: []
+user_id: nowie

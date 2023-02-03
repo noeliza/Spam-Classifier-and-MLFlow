@@ -1,0 +1,2 @@
+[('vectorizer', FunctionTransformer(func=<bound method custom_pipeline.distilbert_encoder of <utils.pipeline.custom_pipeline object at 0x7ff533e626a0>>)), ('standardizer', StandardScaler()), ('pca', PCA(n_components=200, random_state=0)), ('overundersampling', SMOTETomek(random_state=0)), ('classifier', SVC(C=94.01914309210703, class_weight='balanced', gamma=33.73759165354936,
+    kernel='poly', random_state=0))]

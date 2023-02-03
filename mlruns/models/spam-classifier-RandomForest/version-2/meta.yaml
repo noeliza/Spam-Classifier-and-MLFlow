@@ -1,0 +1,12 @@
+creation_timestamp: 1675347342386
+current_stage: None
+description: null
+last_updated_timestamp: 1675347342386
+name: spam-classifier-RandomForest
+run_id: 8e6d3272445343e38fd3f131405a0b42
+run_link: null
+source: file:///Users/nowie/Documents/Github/Spam-Classifier-and-MLFlow/mlruns/0/8e6d3272445343e38fd3f131405a0b42/artifacts/RandomForest
+status: READY
+status_message: null
+user_id: null
+version: 2

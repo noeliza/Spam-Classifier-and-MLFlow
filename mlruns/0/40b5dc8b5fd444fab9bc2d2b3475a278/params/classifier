@@ -1,0 +1,2 @@
+SVC(C=94.01914309210703, class_weight='balanced', gamma=33.73759165354936,
+    kernel='poly', random_state=0)

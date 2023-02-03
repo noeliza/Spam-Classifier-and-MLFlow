@@ -1,0 +1,12 @@
+creation_timestamp: 1675339748837
+current_stage: None
+description: null
+last_updated_timestamp: 1675339748837
+name: spam-classifier-SVM
+run_id: 73e781f22e2c4420ad7c149150ea08d0
+run_link: null
+source: file:///Users/nowie/Documents/Github/Spam-Classifier-and-MLFlow/mlruns/0/73e781f22e2c4420ad7c149150ea08d0/artifacts/SVM
+status: READY
+status_message: null
+user_id: null
+version: 1
